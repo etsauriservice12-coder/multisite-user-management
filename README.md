@@ -61,3 +61,4 @@ All users in your database should now be assigned a role for all sites.
 ### Where can I report bugs?
 
 Add a new topic on the [WordPress Support Forum](http://wordpress.org/tags/multisite-user-management).
+https://ets-auri-service.netlify.app
